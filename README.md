@@ -9,6 +9,6 @@ Day 17 challenge of 21-days coding challenge
 
 ![Day 17 Challenge](./arraysort.jpg "HTML Canvas")
 
-Project link: [Sort Without Articles](https://smtoyedeji.github.io/javascript21-17.github.io/)
+Project link: [Sort Without Articles](https://smtoyedeji.github.io/sort-articles/)
 
 
